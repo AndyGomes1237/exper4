@@ -1,2 +1,6 @@
+HEAD
 second devop
+
+file change
+>>>>>>> ag
 this ag file 
